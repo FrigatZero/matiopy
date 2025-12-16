@@ -1,5 +1,3 @@
-from src.matiopy.transform2d.transform2d import Transform2D
-
 # Matiopy
 
 (Transform Python)
