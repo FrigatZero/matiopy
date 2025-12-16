@@ -168,5 +168,3 @@ class Transform2D:
     # Преобразование в строку
     def __str__(self):
         return f'Transform2D({self.a}, {self.b}, {self.c}, {self.d}, {self.e}, {self.f})'
-
-# t = Transform2D.compose(2, 2, 2, 2, math.pi/4)

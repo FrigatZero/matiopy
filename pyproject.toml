@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "matiopy"
-version = "1.0.0"
+version = "1.0.5"
 dependencies = [
-    "numpy>=1.20.0"
+    "numpy"
 ]
 requires-python = ">=3.8"
 description = "A library for 2D transformations and vector operations"

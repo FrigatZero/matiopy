@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 import math
-from src.transform2d.transform2d import Transform2D
+from src.matiopy.transform2d.transform2d import Transform2D
 
 
 class TestTransform2D(unittest.TestCase):

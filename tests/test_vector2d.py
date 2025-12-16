@@ -1,6 +1,6 @@
 import unittest
 import math
-from src.vector2d.vector2d import Vector2D
+from src.matiopy.vector2d.vector2d import Vector2D
 
 
 class TestVector2D(unittest.TestCase):
